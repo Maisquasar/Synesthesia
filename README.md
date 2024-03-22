@@ -1,6 +1,7 @@
 # Synesthesia
 
 This is an experiment, the goal was to create a system that permit any object to react to any music file.
+
 To add music, go to the folder Synesthesia\Content\Playlist and add your mp3 file.
 
 ## keys
