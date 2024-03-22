@@ -14,7 +14,7 @@ Artist :
 - [Loé Bertrand](https://www.artstation.com/louisgjbertrand)
 - [Valentine Bouic](https://www.artstation.com/ryme_exe)
 - Chloé Victor
-- Benjamin Aubert
+- [Benjamin Aubert](https://www.artstation.com/benjamin_aubert)
 
 Devs :
 - [Maisquasar](https://github.com/Maisquasar)
