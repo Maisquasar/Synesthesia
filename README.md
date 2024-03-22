@@ -10,12 +10,12 @@ To add music, go to the folder Synesthesia\Content\Playlist and add your mp3 fil
 ## Credits
 
 Artist :
-[Loé Bertrand](https://www.artstation.com/louisgjbertrand)
-[Valentine Bouic](https://www.artstation.com/ryme_exe)
-Chloé Victor
-Benjamin Aubert
+- [Loé Bertrand](https://www.artstation.com/louisgjbertrand)
+- [Valentine Bouic](https://www.artstation.com/ryme_exe)
+- Chloé Victor
+- Benjamin Aubert
 
 Devs :
-[Maisquasar](https://github.com/Maisquasar) 
-[Elméa](https://github.com/Elmea)  
-[NoyaCode](https://github.com/NoyaCode)
+- [Maisquasar](https://github.com/Maisquasar)
+- [Elméa](https://github.com/Elmea)
+- [NoyaCode](https://github.com/NoyaCode)
